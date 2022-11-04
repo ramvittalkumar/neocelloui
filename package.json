@@ -1,0 +1,34 @@
+{
+    "name": "neocelloui",
+    "version": "1.0.0",
+    "description": "Custom Celo Composer project.",
+    "private": true,
+    "author": "Celo",
+    "license": "MIT",
+    "scripts": {
+        "react-dev": "yarn workspace @neocelloui/react-app dev",
+        "react-build": "yarn workspace @neocelloui/react-app build",
+        "react-start": "yarn workspace @neocelloui/react-app start",
+        "react-lint": "yarn workspace @neocelloui/react-app lint",
+        "hardhat-chain": "yarn workspace @neocelloui/hardhat chain",
+        "hardhat-test": "yarn workspace @neocelloui/hardhat test",
+        "hardhat-deploy": "yarn workspace @neocelloui/hardhat run deploy"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/celo-org/celo-composer.git"
+    },
+    "bugs": {
+        "url": "https://github.com/celo-org/celo-composer/issues"
+    },
+    "homepage": "https://github.com/celo-org/celo-composer/blob/main/README.md",
+    "workspaces": {
+        "packages": [
+            "packages/*"
+        ]
+    },
+    "keywords": [
+        "celo-composer",
+        "celo"
+    ]
+}
