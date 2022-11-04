@@ -17,4 +17,6 @@ deploying "Storage" (tx: 0xec420576ea6767af69bef44a760c8ed4328fe7a2bf3a25cd97ca1
 deploying "SupportToken" (tx: 0x188d9efa7504d35a0a908d4a85826064c053b7a43acd0296a51aa321fdaf85d3)...: deployed at 0xdA507b9Efe73c89E4acc2590938DBB37e1Fd13D8 with 1344367 gas
 Done in 43.04s.
 
+### Celo testnet explorer link
+https://alfajores.celoscan.io/address/0xd035223f958085d7910654a01f0724d8b12ae53b
 
